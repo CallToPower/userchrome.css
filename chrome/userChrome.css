@@ -1,0 +1,13 @@
+/* Hide tab bar */
+#tabbrowser-tabs {
+    visibility: collapse !important;
+}
+  
+/* Move min-max-close buttons */
+/*
+#nav-bar {
+    border-top: 0px !important;
+    margin-right: 144px;
+    margin-top: -32px;
+}
+*/
